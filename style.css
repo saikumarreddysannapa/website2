@@ -1,0 +1,11 @@
+.navbar-light {
+  background-color: #323e52;
+  color: white;
+  border-bottom: 2px solid green;
+}
+.list-group {
+  overflow-y: scroll;
+}
+.list-group-item {
+  border-right: 1px solid black;
+}
